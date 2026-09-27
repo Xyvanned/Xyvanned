@@ -1,6 +1,6 @@
-<!-- Header banner -->
+<!-- Header banner (stored in this repo, no external service) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:e0af68&height=190&section=header&text=Hi,%20I'm%20Xyvan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Roblox%20Game%20Developer%20%E2%80%A2%20Luau%20%26%20C%2B%2B&descAlignY=58&descSize=18" alt="Hi, I'm Xyvan" />
+  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Xyvan - Roblox Game Developer" />
 </p>
 
 <p align="center">
@@ -67,5 +67,5 @@
 Open to collaborating on Roblox projects. Feel free to reach out through GitHub.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0af68,50:24283b,100:1a1b27&height=100&section=footer" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>
