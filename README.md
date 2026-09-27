@@ -52,6 +52,26 @@
 
 <sub>👉 Client-side showcase: <a href="https://github.com/Xyvanned/Cooking-Game-Public"><b>Cooking-Game-Public</b></a> (server logic stays private).</sub>
 
+### 🩸 Open source: Roblox Loading Screen
+
+<a href="https://github.com/Xyvanned/Roblox-Loading-Screen">
+  <img src="https://raw.githubusercontent.com/Xyvanned/Roblox-Loading-Screen/main/assets/preview.svg" width="100%" alt="Roblox Loading Screen preview" />
+</a>
+
+> A cinematic, story-driven first-join loading screen for a horror survival game: 30 illustrated beats, typed narration and a blood-red vignette, running from `ReplicatedFirst`.
+
+| Highlight | What it does |
+|---|---|
+| 🎬 **Story intro** | Image fade-in/out with slow push-in zoom and typewriter narration |
+| ⏭️ **Skip hint** | Pulsing "Click anywhere to skip" after 10s (mouse, touch, gamepad) |
+| 💾 **Shows once** | Saved with [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) by loleris; the owner always sees it |
+| ⚡ **Lightweight** | Whole UI built in code, one reusable `ImageLabel`, background preloading |
+
+<p>
+  <a href="https://github.com/Xyvanned/Roblox-Loading-Screen"><img src="https://img.shields.io/badge/View%20repo-Roblox--Loading--Screen-B21818?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
+  <img src="https://img.shields.io/badge/License-MIT-2B2B2B?style=for-the-badge" alt="MIT" />
+</p>
+
 ### 📊 GitHub stats
 
 <p align="center">
